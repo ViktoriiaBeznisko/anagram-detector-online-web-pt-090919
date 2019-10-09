@@ -8,6 +8,7 @@ class Anagram
   end
   
   def match(new_array)
-    new_array.each do |word|
+    new_array.select do |word|
+      
   end
 end
