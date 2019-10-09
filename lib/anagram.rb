@@ -1,7 +1,7 @@
 # Your code goes here!
 class Anagram
   
-  MATCH = []
+  array = []
   
   attr_accessor 
   
