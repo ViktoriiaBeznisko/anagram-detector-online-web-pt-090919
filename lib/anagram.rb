@@ -1,9 +1,7 @@
 # Your code goes here!
 class Anagram
   
-  array = []
-  
-  attr_accessor 
+  attr_accessor: word
   
   def initialize(word)
     
